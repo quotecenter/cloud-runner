@@ -1,0 +1,5 @@
+{
+"in_scope": ["n/a"], //other values can be pii, sox, or n/a
+"repo_type": "code", //other values can be documentation or training
+"solution_id": "" //can be left empty if not directly related to a solution, e.g. ""
+}
